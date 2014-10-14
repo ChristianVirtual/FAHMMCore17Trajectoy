@@ -23,6 +23,11 @@
 #
 # following frames might be delivered later; just as a starter
 #
+# Change History
+#
+# 2014/10/14	1.0		initial version
+# 2014/10/14	1.1		removed some leftover from original purpose of the template 
+# 						(cnt % 100 and print of client list)
 
 #
 # to run the script:
@@ -390,10 +395,6 @@ def FAHMMCore17Trajectory(hn, port):
     running = 1
 
     while running:
-        if cnt % 100 == 0:
-           print "\n",cnt, ": entries input", len(input), \
-                                    "output", len(output), \
-                                   "clients", len(clientList)                          
 
         # error handler for the select.select 
         try:
