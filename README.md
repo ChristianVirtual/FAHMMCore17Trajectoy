@@ -11,6 +11,8 @@ Tested on Linux environment with nVidia GPU card and project 13000 and 13001.
 Once the iPad app is throught the Review with Apple please give it a shot.
 
 
+Update 2015/12/25
+
 This one will not be continued.
 
 * for iPad I go different way
