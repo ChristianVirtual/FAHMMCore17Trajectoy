@@ -9,3 +9,9 @@ it is not visualize by itself (maybe that would be also a nice idea).
 Tested on Linux environment with nVidia GPU card and project 13000 and 13001.
 
 Once the iPad app is throught the Review with Apple please give it a shot.
+
+
+This one will not be continued.
+
+* for iPad I go different way
+* for general purpose please see ![new way](https://github.com/ChristianVirtual/FAH_WrapperGPUTrajectory)
